@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Ademir\\Marina\\BG\\DS\\Condicional\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA9B372-06E6-4181-8B55-96DB896C55C8}|Condicional\\Condicional.csproj|C:\\Ademir\\Marina\\BG\\DS\\Condicional\\condicional\\frmex5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA9B372-06E6-4181-8B55-96DB896C55C8}|Condicional\\Condicional.csproj|solutionrelative:condicional\\frmex5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA9B372-06E6-4181-8B55-96DB896C55C8}|Condicional\\Condicional.csproj|C:\\Ademir\\Marina\\BG\\DS\\Condicional\\condicional\\frmex5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DA9B372-06E6-4181-8B55-96DB896C55C8}|Condicional\\Condicional.csproj|solutionrelative:condicional\\frmex5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA9B372-06E6-4181-8B55-96DB896C55C8}|Condicional\\Condicional.csproj|c:\\ademir\\marina\\bg\\ds\\condicional\\condicional\\frmex4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DA9B372-06E6-4181-8B55-96DB896C55C8}|Condicional\\Condicional.csproj|solutionrelative:condicional\\frmex4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA9B372-06E6-4181-8B55-96DB896C55C8}|Condicional\\Condicional.csproj|C:\\Ademir\\Marina\\BG\\DS\\Condicional\\condicional\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DA9B372-06E6-4181-8B55-96DB896C55C8}|Condicional\\Condicional.csproj|solutionrelative:condicional\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA9B372-06E6-4181-8B55-96DB896C55C8}|Condicional\\Condicional.csproj|c:\\ademir\\marina\\bg\\ds\\condicional\\condicional\\frmex10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DA9B372-06E6-4181-8B55-96DB896C55C8}|Condicional\\Condicional.csproj|solutionrelative:condicional\\frmex10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA9B372-06E6-4181-8B55-96DB896C55C8}|Condicional\\Condicional.csproj|C:\\Ademir\\Marina\\BG\\DS\\Condicional\\condicional\\frmex10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA9B372-06E6-4181-8B55-96DB896C55C8}|Condicional\\Condicional.csproj|solutionrelative:condicional\\frmex10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA9B372-06E6-4181-8B55-96DB896C55C8}|Condicional\\Condicional.csproj|C:\\Ademir\\Marina\\BG\\DS\\Condicional\\condicional\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA9B372-06E6-4181-8B55-96DB896C55C8}|Condicional\\Condicional.csproj|solutionrelative:condicional\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmex4.cs [Design]",
+              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\Condicional\\Condicional\\frmex4.cs",
+              "RelativeDocumentMoniker": "Condicional\\frmex4.cs",
+              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\Condicional\\Condicional\\frmex4.cs [Design]",
+              "RelativeToolTip": "Condicional\\frmex4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:56:34.645Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmex5.cs",
+              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\Condicional\\Condicional\\frmex5.cs",
+              "RelativeDocumentMoniker": "Condicional\\frmex5.cs",
+              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\Condicional\\Condicional\\frmex5.cs",
+              "RelativeToolTip": "Condicional\\frmex5.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAADgvyMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:08:52.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmex5.cs [Design]",
+              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\Condicional\\Condicional\\frmex5.cs",
+              "RelativeDocumentMoniker": "Condicional\\frmex5.cs",
+              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\Condicional\\Condicional\\frmex5.cs [Design]",
+              "RelativeToolTip": "Condicional\\frmex5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:10:46.233Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\Condicional\\Condicional\\Form1.cs",
+              "RelativeDocumentMoniker": "Condicional\\Form1.cs",
+              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\Condicional\\Condicional\\Form1.cs",
+              "RelativeToolTip": "Condicional\\Form1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:05:13.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\Condicional\\Condicional\\Form1.cs",
+              "RelativeDocumentMoniker": "Condicional\\Form1.cs",
+              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\Condicional\\Condicional\\Form1.cs [Design]",
+              "RelativeToolTip": "Condicional\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:56:46.268Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmex10.cs",
+              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\Condicional\\Condicional\\frmex10.cs",
+              "RelativeDocumentMoniker": "Condicional\\frmex10.cs",
+              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\Condicional\\Condicional\\frmex10.cs",
+              "RelativeToolTip": "Condicional\\frmex10.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:15:03.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmex10.cs [Design]",
+              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\Condicional\\Condicional\\frmex10.cs",
+              "RelativeDocumentMoniker": "Condicional\\frmex10.cs",
+              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\Condicional\\Condicional\\frmex10.cs [Design]",
+              "RelativeToolTip": "Condicional\\frmex10.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:09:15.895Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
